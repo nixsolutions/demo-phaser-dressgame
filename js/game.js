@@ -197,13 +197,13 @@ function create() {
 }
 
 function start() {
-  this.game.load.atlasJSONHash('dressup', '/assets/dressup.png', '/assets/dressup.json');
-  this.game.load.atlasJSONHash('DressuppThumb', '/assets/DressuppThumb.png', '/assets/DressuppThumb.json');
-  this.game.load.audio('eventAudio', '/assets/audio/clickWater.wav');
-  this.game.load.audio('bgAudio', '/assets/audio/bgMusic.mp3');
-  this.game.load.audio('camera', '/assets/audio/camera.wav');
-  this.game.load.image('backgroundP', '/assets/backgroundP.png');
-  this.game.load.image('bgSlider', '/assets/bgSlider.png');
+  this.game.load.atlasJSONHash('dressup', 'assets/dressup.png', 'assets/dressup.json');
+  this.game.load.atlasJSONHash('DressuppThumb', 'assets/DressuppThumb.png', 'assets/DressuppThumb.json');
+  this.game.load.audio('eventAudio', 'assets/audio/clickWater.wav');
+  this.game.load.audio('bgAudio', 'assets/audio/bgMusic.mp3');
+  this.game.load.audio('camera', 'assets/audio/camera.wav');
+  this.game.load.image('backgroundP', 'assets/backgroundP.png');
+  this.game.load.image('bgSlider', 'assets/bgSlider.png');
 
   this.game.KineticScrollingRemake = this.game.plugins.add(Phaser.Plugin.KineticScrollingRemake);
   this.game.load.start();
