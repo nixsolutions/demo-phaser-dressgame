@@ -173,8 +173,8 @@ function preload() {
   game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 
 
-  this.game.load.image('loadScreen', '/assets/Loading.png');
-  this.game.load.bitmapFont('dressFont', '/assets/font/dress-font.png', '/assets/font/dress-font.xml');
+  this.game.load.image('loadScreen', 'assets/Loading.png');
+  this.game.load.bitmapFont('dressFont', 'assets/font/dress-font.png', 'assets/font/dress-font.xml');
   this.game.KineticScrollingRemake = this.game.plugins.add(Phaser.Plugin.KineticScrollingRemake);
 }
 
