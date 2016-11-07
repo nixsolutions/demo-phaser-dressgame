@@ -1,0 +1,24 @@
+<font>
+	<info face="C:\Users\kuzmina\Desktop\100-export" size="80" />
+	<common lineHeight="80" scaleW="117" scaleH="120" pages="1" />
+	<pages>
+		<page id="0" file="C:\Users\kuzmina\Desktop\100-export.png" />
+	</pages>
+	<chars count="13">
+		<char id="37" x="0" y="0" width="43" height="44" xoffset="0" yoffset="41" xadvance="44" /><!-- % -->
+		<char id="48" x="0" y="82" width="30" height="36" xoffset="0" yoffset="44" xadvance="31" /><!-- 0 -->
+		<char id="49" x="91" y="74" width="24" height="36" xoffset="0" yoffset="44" xadvance="25" /><!-- 1 -->
+		<char id="50" x="90" y="37" width="26" height="36" xoffset="0" yoffset="44" xadvance="27" /><!-- 2 -->
+		<char id="51" x="31" y="82" width="30" height="37" xoffset="0" yoffset="44" xadvance="31" /><!-- 3 -->
+		<char id="52" x="62" y="75" width="28" height="36" xoffset="0" yoffset="44" xadvance="29" /><!-- 4 -->
+		<char id="53" x="61" y="38" width="28" height="36" xoffset="0" yoffset="44" xadvance="29" /><!-- 5 -->
+		<char id="54" x="0" y="45" width="31" height="36" xoffset="0" yoffset="44" xadvance="32" /><!-- 6 -->
+		<char id="55" x="73" y="0" width="27" height="36" xoffset="0" yoffset="44" xadvance="28" /><!-- 7 -->
+		<char id="56" x="44" y="0" width="28" height="37" xoffset="0" yoffset="44" xadvance="29" /><!-- 8 -->
+		<char id="57" x="32" y="45" width="28" height="36" xoffset="0" yoffset="44" xadvance="29" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
